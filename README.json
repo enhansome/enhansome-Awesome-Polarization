@@ -1,29 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Polarization Imaging (non-DL)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Polarization Imaging (DL)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Miscellaneous (non-DL)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Miscellaneous (DL)"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T19:35:46.218Z",
+    "last_updated": "2026-08-19T12:07:56.660Z",
     "original_repository": "tkuri/Awesome-Polarization",
+    "original_repository_id": 317408323,
     "original_repository_sha": "dd1fbfcd80f283049fbb2c9ad6deced8a9686ad7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Polarization",
     "enhanced_repository_description": null,
