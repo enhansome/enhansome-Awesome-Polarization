@@ -1,7 +1,407 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CVPR Depth from a polarisation + RGB stereo pair 3D Shape Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 177804455,
+            "language": "MATLAB",
+            "last_commit": "2019-03-28T15:01:00Z",
+            "owner": "AmosZhu",
+            "repo": "CVPR2019",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Degree-of-Linear-Polarization-Based Color Constancy White Balance Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 472636206,
+            "language": "Python",
+            "last_commit": "2022-07-04T07:45:47Z",
+            "owner": "sony",
+            "repo": "dolp-colorconstancy",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "SIGGRAPH Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography Rendering / 3D Shape Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 478005513,
+            "language": "MATLAB",
+            "last_commit": "2022-07-09T08:33:08Z",
+            "owner": "KAIST-VCLAB",
+            "repo": "SparseEllipsometry",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Perspective Phase Angle Model for Polarimetric 3D Reconstruction 3D Shape Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 511069592,
+            "language": "Python",
+            "last_commit": "2023-05-01T05:31:37Z",
+            "owner": "GCChen97",
+            "repo": "ppa4p3d",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Polarization Imaging (non-DL)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "NeurIPS Reflection Separation using a Pair of Unpolarized and Polarized Images Reflection Removal Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227355073,
+            "language": "Python",
+            "last_commit": "2020-09-25T07:04:11Z",
+            "owner": "YouweiLyu",
+            "repo": "reflection_separation_with_un-polarized_images",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "CVPR Polarized Reflection Removal With Perfect Alignment in the Wild Reflection Removal Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252098141,
+            "language": "Python",
+            "last_commit": "2021-04-02T07:50:57Z",
+            "owner": "ChenyangLEI",
+            "repo": "polarization-reflection-removal",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "ECCV 3D Human Shape Reconstruction from a Polarization Image 3D Human Shape Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278465481,
+            "language": "Python",
+            "last_commit": "2022-11-09T07:09:24Z",
+            "owner": "JimmyZou",
+            "repo": "PolarHumanPoseShape",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "CVPR Multimodal Material Segmentation Material Segmentation Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 473596555,
+            "language": "Python",
+            "last_commit": "2023-11-29T01:37:43Z",
+            "owner": "kyotovision-public",
+            "repo": "multimodal-material-segmentation",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV PANDORA: Polarization-Aided Neural Decomposition Of Radiance 3D Shape Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515326727,
+            "language": "Python",
+            "last_commit": "2022-07-19T20:36:27Z",
+            "owner": "akshatdave",
+            "repo": "pandora",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ECCV Polarimetric Pose Prediction Pose Prediction Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513441610,
+            "language": "Python",
+            "last_commit": "2022-07-18T06:50:38Z",
+            "owner": "DaoyiG",
+            "repo": "polarimetric-pose-prediction",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "WACV Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor New Sensor Array Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 535933659,
+            "language": "Python",
+            "last_commit": "2023-03-24T05:28:42Z",
+            "owner": "sony",
+            "repo": "polar-densification",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CVPR Polarized Color Image Denoising Denoising Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616792509,
+            "language": null,
+            "last_commit": "2023-08-31T03:18:22Z",
+            "owner": "bandasyou",
+            "repo": "pcdenoise",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICCV Transparent Shape from a Single View Polarization Image 3D Shape Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 496927310,
+            "language": "Python",
+            "last_commit": "2023-08-12T11:58:25Z",
+            "owner": "shaomq2187",
+            "repo": "TransSfP",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "SIGGRAPH ASIA Neural Spectro-polarimetric Fields View Synthesis Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489224423,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-17T21:47:36Z",
+            "owner": "youngchan-k",
+            "repo": "NeSpoF",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Robust Depth Enhancement via Polarization Prompt Fusion Tuning 3D Shape Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 781292441,
+            "language": "Python",
+            "last_commit": "2024-08-20T03:15:42Z",
+            "owner": "lastbasket",
+            "repo": "Polarization-Prompt-Fusion-Tuning",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR NeISF: Neural Incident Stokes Field for Geometry and Material Estimation Rendering / 3D Shape Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810095005,
+            "language": "Python",
+            "last_commit": "2025-05-15T13:26:29Z",
+            "owner": "sony",
+            "repo": "NeISF",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Polarization Wavefront Lidar:Learning Large Scene Reconstruction from Polarized Wavefronts 3D Shape Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805908442,
+            "language": null,
+            "last_commit": "2024-06-03T14:57:50Z",
+            "owner": "princeton-computational-imaging",
+            "repo": "PolLidar",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images 3D Shape Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 767386807,
+            "language": "Python",
+            "last_commit": "2025-12-19T06:24:55Z",
+            "owner": "PRIS-CV",
+            "repo": "NeRSP",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "CVPR Learning to Remove Wrinkled Transparent Film with Polarized Prior Film removal Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764661751,
+            "language": "Python",
+            "last_commit": "2024-11-03T07:36:29Z",
+            "owner": "jqtangust",
+            "repo": "FilmRemoval",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "AAAI Exploiting Polarized Material Cues for Robust Car Detection Car detection Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 732022995,
+            "language": "Python",
+            "last_commit": "2024-03-28T08:36:06Z",
+            "owner": "wind1117",
+            "repo": "AAAI24-PCDNet",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ECCV Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation Translucent 3D Shape Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 826597722,
+            "language": "Python",
+            "last_commit": "2024-07-12T11:47:42Z",
+            "owner": "ligoudaner377",
+            "repo": "polarized_inverse_scattering",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ECCV PISR: Polarimetric Neural Implicit Surface Reconstruction for Textureless and Specular Objects 3D Shape Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 862381653,
+            "language": "Python",
+            "last_commit": "2024-09-24T14:03:47Z",
+            "owner": "GCChen97",
+            "repo": "PISR",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025",
+          "description": "CVPR PolarFree: Polarization-based Reflection-Free Imaging Reflection removal Code & Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 953489226,
+            "language": "Python",
+            "last_commit": "2025-12-13T11:53:15Z",
+            "owner": "mdyao",
+            "repo": "PolarFree",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Polarization Imaging (DL)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Arxiv Polarization Human Pose and Shape Dataset Dataset Code / Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278465481,
+            "language": "Python",
+            "last_commit": "2022-11-09T07:09:24Z",
+            "owner": "JimmyZou",
+            "repo": "PolarHumanPoseShape",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Miscellaneous (non-DL)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Arxiv Polarization-driven Semantic Segmentation via Efficient Attention-bridged Fusion Segmentation Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315257070,
+            "language": "Python",
+            "last_commit": "2021-04-06T15:05:11Z",
+            "owner": "Katexiang",
+            "repo": "EAFNet",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Miscellaneous (DL)"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T19:30:29.477Z",
+    "last_updated": "2026-08-24T14:34:06.965Z",
     "original_repository": "tkuri/Awesome-Polarization",
     "original_repository_id": 317408323,
     "original_repository_sha": "dd1fbfcd80f283049fbb2c9ad6deced8a9686ad7",
