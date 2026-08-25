@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "CVPR Depth from a polarisation + RGB stereo pair 3D Shape Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Depth from a polarisation + RGB stereo pair 3D Shape",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Degree-of-Linear-Polarization-Based Color Constancy White Balance Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Degree-of-Linear-Polarization-Based Color Constancy White Balance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +35,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "SIGGRAPH Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography Rendering / 3D Shape Code",
+          "title": "KAIST-VCLAB/SparseEllipsometry",
+          "description": "SIGGRAPH Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography Rendering / 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Perspective Phase Angle Model for Polarimetric 3D Reconstruction 3D Shape Code",
+          "title": "GCChen97/ppa4p3d",
+          "description": "ECCV Perspective Phase Angle Model for Polarimetric 3D Reconstruction 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -71,8 +71,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2019",
-          "description": "NeurIPS Reflection Separation using a Pair of Unpolarized and Polarized Images Reflection Removal Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "NeurIPS Reflection Separation using a Pair of Unpolarized and Polarized Images Reflection Removal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -86,8 +86,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "CVPR Polarized Reflection Removal With Perfect Alignment in the Wild Reflection Removal Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Polarized Reflection Removal With Perfect Alignment in the Wild Reflection Removal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,8 +101,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "ECCV 3D Human Shape Reconstruction from a Polarization Image 3D Human Shape Code / Dataset",
+          "title": "JimmyZou/PolarHumanPoseShape",
+          "description": "/ Dataset ECCV 3D Human Shape Reconstruction from a Polarization Image 3D Human Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -116,8 +116,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "CVPR Multimodal Material Segmentation Material Segmentation Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Multimodal Material Segmentation Material Segmentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,8 +131,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV PANDORA: Polarization-Aided Neural Decomposition Of Radiance 3D Shape Code / Dataset",
+          "title": "akshatdave/pandora",
+          "description": "/ Dataset ECCV PANDORA: Polarization-Aided Neural Decomposition Of Radiance 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,8 +146,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022",
-          "description": "ECCV Polarimetric Pose Prediction Pose Prediction Code / Dataset",
+          "title": "DaoyiG/polarimetric-pose-prediction",
+          "description": "/ Dataset ECCV Polarimetric Pose Prediction Pose Prediction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,8 +161,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "WACV Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor New Sensor Array Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "WACV Simultaneous Acquisition of High Quality RGB Image and Polarization Information using a Sparse Polarization Sensor New Sensor Array",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -176,8 +176,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "CVPR Polarized Color Image Denoising Denoising Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Polarized Color Image Denoising Denoising",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -191,8 +191,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "ICCV Transparent Shape from a Single View Polarization Image 3D Shape Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "ICCV Transparent Shape from a Single View Polarization Image 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,8 +206,8 @@
         },
         {
           "node_type": "item",
-          "title": "2023",
-          "description": "SIGGRAPH ASIA Neural Spectro-polarimetric Fields View Synthesis Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "SIGGRAPH ASIA Neural Spectro-polarimetric Fields View Synthesis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,8 +221,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Robust Depth Enhancement via Polarization Prompt Fusion Tuning 3D Shape Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Robust Depth Enhancement via Polarization Prompt Fusion Tuning 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,8 +236,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR NeISF: Neural Incident Stokes Field for Geometry and Material Estimation Rendering / 3D Shape Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR NeISF: Neural Incident Stokes Field for Geometry and Material Estimation Rendering / 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,8 +251,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Polarization Wavefront Lidar:Learning Large Scene Reconstruction from Polarized Wavefronts 3D Shape Code",
+          "title": "princeton-computational-imaging/PolLidar",
+          "description": "CVPR Polarization Wavefront Lidar:Learning Large Scene Reconstruction from Polarized Wavefronts 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,8 +266,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images 3D Shape Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,8 +281,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "CVPR Learning to Remove Wrinkled Transparent Film with Polarized Prior Film removal Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "CVPR Learning to Remove Wrinkled Transparent Film with Polarized Prior Film removal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,8 +296,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "AAAI Exploiting Polarized Material Cues for Robust Car Detection Car detection Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "AAAI Exploiting Polarized Material Cues for Robust Car Detection Car detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,8 +311,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "ECCV Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation Translucent 3D Shape Code & Dataset",
+          "title": "Code & Dataset",
+          "description": "ECCV Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation Translucent 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,8 +326,8 @@
         },
         {
           "node_type": "item",
-          "title": "2024",
-          "description": "ECCV PISR: Polarimetric Neural Implicit Surface Reconstruction for Textureless and Specular Objects 3D Shape Code",
+          "title": "GCChen97/PISR",
+          "description": "ECCV PISR: Polarimetric Neural Implicit Surface Reconstruction for Textureless and Specular Objects 3D Shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "2025",
-          "description": "CVPR PolarFree: Polarization-based Reflection-Free Imaging Reflection removal Code & Dataset",
+          "title": "PolarFree: Polarization-based Reflection-Free Imaging",
+          "description": "CVPR Reflection removal Code & Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,8 +362,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Arxiv Polarization Human Pose and Shape Dataset Dataset Code / Dataset",
+          "title": "JimmyZou/PolarHumanPoseShape",
+          "description": "/ Dataset Arxiv Polarization Human Pose and Shape Dataset Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -383,8 +383,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2020",
-          "description": "Arxiv Polarization-driven Semantic Segmentation via Efficient Attention-bridged Fusion Segmentation Code",
+          "title": "Katexiang/EAFNet",
+          "description": "Arxiv Polarization-driven Semantic Segmentation via Efficient Attention-bridged Fusion Segmentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,7 +401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:38:35.314Z",
+    "last_updated": "2026-08-25T06:27:19.966Z",
     "original_repository": "tkuri/Awesome-Polarization",
     "original_repository_id": 317408323,
     "original_repository_sha": "dd1fbfcd80f283049fbb2c9ad6deced8a9686ad7",
