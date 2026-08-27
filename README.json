@@ -141,7 +141,7 @@
             "last_commit": "2022-07-19T20:36:27Z",
             "owner": "akshatdave",
             "repo": "pandora",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2025-12-19T06:24:55Z",
             "owner": "PRIS-CV",
             "repo": "NeRSP",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2024-09-24T14:03:47Z",
             "owner": "GCChen97",
             "repo": "PISR",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -401,9 +401,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:47:40.687Z",
-    "original_repository": "tkuri/Awesome-Polarization",
-    "original_repository_id": 317408323,
+    "last_updated": "2026-08-27T11:23:38.859Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 317408323,
+      "language": null,
+      "last_commit": "2025-04-11T07:26:56Z",
+      "owner": "tkuri",
+      "repo": "Awesome-Polarization",
+      "stars": 160
+    },
     "original_repository_sha": "dd1fbfcd80f283049fbb2c9ad6deced8a9686ad7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Polarization",
     "enhanced_repository_description": null,
