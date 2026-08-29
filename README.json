@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Depth from a polarisation + RGB stereo pair",
+            "homepage": null,
             "id": 177804455,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2019-03-28T15:01:00Z",
+            "open_issues": 1,
             "owner": "AmosZhu",
             "repo": "CVPR2019",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 472636206,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-04T07:45:47Z",
+            "open_issues": 0,
             "owner": "sony",
             "repo": "dolp-colorconstancy",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SparseEllipsometry",
+            "homepage": null,
             "id": 478005513,
             "language": "MATLAB",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-09T08:33:08Z",
+            "open_issues": 0,
             "owner": "KAIST-VCLAB",
             "repo": "SparseEllipsometry",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 511069592,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-01T05:31:37Z",
+            "open_issues": 0,
             "owner": "GCChen97",
             "repo": "ppa4p3d",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         }
@@ -80,12 +100,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of NeurIPS2019 paper \"Reflection Separation using a Pair of Unpolarized and Polarized Images\".",
+            "homepage": null,
             "id": 227355073,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-25T07:04:11Z",
+            "open_issues": 2,
             "owner": "YouweiLyu",
             "repo": "reflection_separation_with_un-polarized_images",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "reflection-separation"
+            ]
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -96,12 +123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2020] Polarized Reflection Removal with Perfect Alignment in the Wild",
+            "homepage": null,
             "id": 252098141,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-02T07:50:57Z",
+            "open_issues": 1,
             "owner": "ChenyangLEI",
             "repo": "polarization-reflection-removal",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -112,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code for Polarization Human Pose and Shape Dataset.",
+            "homepage": null,
             "id": 278465481,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-09T07:09:24Z",
+            "open_issues": 2,
             "owner": "JimmyZou",
             "repo": "PolarHumanPoseShape",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -128,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 473596555,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-29T01:37:43Z",
+            "open_issues": 9,
             "owner": "kyotovision-public",
             "repo": "multimodal-material-segmentation",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -144,12 +186,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of PANDORA: Polarization-Aided Neural Decomposition of Radiance",
+            "homepage": "https://akshatdave.github.io/pandora",
             "id": 515326727,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-19T20:36:27Z",
+            "open_issues": 5,
             "owner": "akshatdave",
             "repo": "pandora",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "3d-reconstruction",
+              "computer-vision",
+              "inverse-rendering",
+              "nerf",
+              "neural-rendering",
+              "polarization",
+              "polarization-imaging"
+            ]
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -160,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper Polarimetric Pose Prediction",
+            "homepage": null,
             "id": 513441610,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-18T06:50:38Z",
+            "open_issues": 1,
             "owner": "DaoyiG",
             "repo": "polarimetric-pose-prediction",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -176,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 535933659,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-24T05:28:42Z",
+            "open_issues": 4,
             "owner": "sony",
             "repo": "polar-densification",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -192,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 616792509,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-31T03:18:22Z",
+            "open_issues": 2,
             "owner": "bandasyou",
             "repo": "pcdenoise",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -208,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for paper \"Transparent Shape from Single Polarization Images\"",
+            "homepage": null,
             "id": 496927310,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-12T11:58:25Z",
+            "open_issues": 5,
             "owner": "shaomq2187",
             "repo": "TransSfP",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -224,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural representation for physically-valid hyperspectral Stokes-vector",
+            "homepage": "https://youngchan-k.github.io/NeSpoF",
             "id": 489224423,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-05-17T21:47:36Z",
+            "open_issues": 1,
             "owner": "youngchan-k",
             "repo": "NeSpoF",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -240,12 +320,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2024: Robust Depth Enhancement via Polarization Prompt Fusion Tuning",
+            "homepage": null,
             "id": 781292441,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-20T03:15:42Z",
+            "open_issues": 2,
             "owner": "lastbasket",
             "repo": "Polarization-Prompt-Fusion-Tuning",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "active-stereo",
+              "cvpr",
+              "cvpr2024",
+              "depth",
+              "depth-completion",
+              "depth-denoising",
+              "dtof",
+              "itof",
+              "normal-estimation",
+              "polarization",
+              "prompt-tuning"
+            ]
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -256,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 810095005,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-15T13:26:29Z",
+            "open_issues": 0,
             "owner": "sony",
             "repo": "NeISF",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -272,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 805908442,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-03T14:57:50Z",
+            "open_issues": 1,
             "owner": "princeton-computational-imaging",
             "repo": "PolLidar",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -288,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 767386807,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-19T06:24:55Z",
+            "open_issues": 4,
             "owner": "PRIS-CV",
             "repo": "NeRSP",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -304,12 +416,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Official Implementation of Learning to Remove Wrinkled Transparent Film with Polarized Prior",
+            "homepage": "https://jqt.me/_FilmRemoval_/",
             "id": 764661751,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-03T07:36:29Z",
+            "open_issues": 1,
             "owner": "jqtangust",
             "repo": "FilmRemoval",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "computational-photography",
+              "film-removal",
+              "image-reconstruction",
+              "industry",
+              "low-level-vison",
+              "material-removal",
+              "restoration"
+            ]
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -320,12 +445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 732022995,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-28T08:36:06Z",
+            "open_issues": 1,
             "owner": "wind1117",
             "repo": "AAAI24-PCDNet",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -336,12 +466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 826597722,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-12T11:47:42Z",
+            "open_issues": 0,
             "owner": "ligoudaner377",
             "repo": "polarized_inverse_scattering",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -352,12 +487,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 862381653,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-24T14:03:47Z",
+            "open_issues": 7,
             "owner": "GCChen97",
             "repo": "PISR",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         },
@@ -368,12 +508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025] Official Implementation of \"PolarFree: Polarization-based Reflection-Free Imaging\"",
+            "homepage": null,
             "id": 953489226,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-13T11:53:15Z",
+            "open_issues": 1,
             "owner": "mdyao",
             "repo": "PolarFree",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         }
@@ -390,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code for Polarization Human Pose and Shape Dataset.",
+            "homepage": null,
             "id": 278465481,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-09T07:09:24Z",
+            "open_issues": 2,
             "owner": "JimmyZou",
             "repo": "PolarHumanPoseShape",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         }
@@ -412,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polarization-driven Semantic Segmentation",
+            "homepage": null,
             "id": 315257070,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-06T15:05:11Z",
+            "open_issues": 2,
             "owner": "Katexiang",
             "repo": "EAFNet",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
         }
@@ -426,15 +581,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:07:33.690Z",
+    "last_updated": "2026-08-29T04:55:40.262Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of awesome papers on Polarization Imaging",
+      "homepage": null,
       "id": 317408323,
       "language": null,
+      "license": null,
       "last_commit": "2025-04-11T07:26:56Z",
+      "open_issues": 0,
       "owner": "tkuri",
       "repo": "Awesome-Polarization",
-      "stars": 160
+      "stars": 160,
+      "topics": [
+        "awesome-list",
+        "awesome-lists",
+        "paper",
+        "papers",
+        "polarization-imaging"
+      ]
     },
     "original_repository_sha": "dd1fbfcd80f283049fbb2c9ad6deced8a9686ad7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Polarization",
