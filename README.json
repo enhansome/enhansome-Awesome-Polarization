@@ -16,7 +16,8 @@
             "owner": "AmosZhu",
             "repo": "CVPR2019",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sony",
             "repo": "dolp-colorconstancy",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "KAIST-VCLAB",
             "repo": "SparseEllipsometry",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "GCChen97",
             "repo": "ppa4p3d",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         }
       ],
       "title": "Polarization Imaging (non-DL)"
@@ -82,7 +86,8 @@
             "owner": "YouweiLyu",
             "repo": "reflection_separation_with_un-polarized_images",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "ChenyangLEI",
             "repo": "polarization-reflection-removal",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "JimmyZou",
             "repo": "PolarHumanPoseShape",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "kyotovision-public",
             "repo": "multimodal-material-segmentation",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "akshatdave",
             "repo": "pandora",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "DaoyiG",
             "repo": "polarimetric-pose-prediction",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "sony",
             "repo": "polar-densification",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "bandasyou",
             "repo": "pcdenoise",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "shaomq2187",
             "repo": "TransSfP",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "youngchan-k",
             "repo": "NeSpoF",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "lastbasket",
             "repo": "Polarization-Prompt-Fusion-Tuning",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "sony",
             "repo": "NeISF",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "princeton-computational-imaging",
             "repo": "PolLidar",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "PRIS-CV",
             "repo": "NeRSP",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "jqtangust",
             "repo": "FilmRemoval",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "wind1117",
             "repo": "AAAI24-PCDNet",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "ligoudaner377",
             "repo": "polarized_inverse_scattering",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "GCChen97",
             "repo": "PISR",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "mdyao",
             "repo": "PolarFree",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         }
       ],
       "title": "Polarization Imaging (DL)"
@@ -373,7 +396,8 @@
             "owner": "JimmyZou",
             "repo": "PolarHumanPoseShape",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         }
       ],
       "title": "Miscellaneous (non-DL)"
@@ -394,14 +418,15 @@
             "owner": "Katexiang",
             "repo": "EAFNet",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T02:07:33.690Z"
         }
       ],
       "title": "Miscellaneous (DL)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:32:59.564Z",
+    "last_updated": "2026-08-29T02:07:33.690Z",
     "original_repository_info": {
       "archived": false,
       "id": 317408323,
