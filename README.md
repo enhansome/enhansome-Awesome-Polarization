@@ -87,7 +87,7 @@
 | 2024 |      AAAI     |                                                                            [Exploiting Polarized Material Cues for Robust Car Detection](https://arxiv.org/abs/2401.02606)                                                                           |       Car detection      |                                               [Code & Dataset](https://github.com/wind1117/AAAI24-PCDNet) ⭐ 9 \| 🐛 1 \| 🌐 Python \| 📅 2024-03-28                                               |
 | 2024 |      ECCV     |                                                                 [Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation](https://arxiv.org/abs/2407.08149)                                                                |   Translucent 3D Shape   |                                     [Code & Dataset](https://github.com/ligoudaner377/polarized_inverse_scattering) ⭐ 7 \| 🐛 0 \| 🌐 Python \| 📅 2024-07-12                                     |
 | 2024 |      ECCV     |                                         [PISR: Polarimetric Neural Implicit Surface Reconstruction for Textureless and Specular Objects](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01284.pdf)                                         |         3D Shape         |                                                        [Code](https://github.com/GCChen97/PISR) ⭐ 26 \| 🐛 7 \| 🌐 Python \| 📅 2024-09-24                                                        |
-| 2025 |      CVPR     |                                                        [PolarFree: Polarization-based Reflection-Free Imaging](https://github.com/mdyao/PolarFree) ⭐ 67 \| 🐛 1 \| 🌐 Python \| 📅 2025-12-13                                                        |    Reflection removal    |                                                  [Code & Dataset](https://github.com/mdyao/PolarFree) ⭐ 67 \| 🐛 1 \| 🌐 Python \| 📅 2025-12-13                                                  |
+| 2025 |      CVPR     |                                                        [PolarFree: Polarization-based Reflection-Free Imaging](https://github.com/mdyao/PolarFree) ⭐ 68 \| 🐛 1 \| 🌐 Python \| 📅 2025-12-13                                                        |    Reflection removal    |                                                  [Code & Dataset](https://github.com/mdyao/PolarFree) ⭐ 68 \| 🐛 1 \| 🌐 Python \| 📅 2025-12-13                                                  |
 
 ## Miscellaneous (non-DL)
 
@@ -140,4 +140,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
