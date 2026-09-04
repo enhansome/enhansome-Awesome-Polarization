@@ -359,7 +359,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-05-15T13:26:29Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sony",
             "repo": "NeISF",
             "stars": 25,
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:40:25.720Z",
+    "last_updated": "2026-09-04T21:23:57.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
