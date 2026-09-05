@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:23:57.373Z",
+    "last_updated": "2026-09-05T21:09:39.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
@@ -593,7 +593,7 @@
       "open_issues": 0,
       "owner": "tkuri",
       "repo": "Awesome-Polarization",
-      "stars": 160,
+      "stars": 161,
       "topics": [
         "awesome-list",
         "awesome-lists",
