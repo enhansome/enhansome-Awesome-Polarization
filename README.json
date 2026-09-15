@@ -174,7 +174,7 @@
             "open_issues": 9,
             "owner": "kyotovision-public",
             "repo": "multimodal-material-segmentation",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
@@ -362,7 +362,7 @@
             "open_issues": 1,
             "owner": "sony",
             "repo": "NeISF",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:26:21.212Z",
+    "last_updated": "2026-09-15T22:09:14.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
