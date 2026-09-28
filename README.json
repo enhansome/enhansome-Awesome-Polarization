@@ -517,7 +517,7 @@
             "open_issues": 1,
             "owner": "mdyao",
             "repo": "PolarFree",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:03:07.510Z",
+    "last_updated": "2026-09-28T23:48:18.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
