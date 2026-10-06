@@ -404,7 +404,7 @@
             "open_issues": 4,
             "owner": "PRIS-CV",
             "repo": "NeRSP",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:45:32.317Z",
+    "last_updated": "2026-10-06T10:36:55.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
