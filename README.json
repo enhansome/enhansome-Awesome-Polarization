@@ -689,7 +689,7 @@
             "open_issues": 2,
             "owner": "PRIS-CV",
             "repo": "PIDSR",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-10-10T22:26:33.483Z"
@@ -811,7 +811,7 @@
             "id": 1284146825,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-28T23:12:04Z",
+            "last_commit": "2026-10-12T16:34:43Z",
             "open_issues": 0,
             "owner": "irnkim",
             "repo": "poppy",
@@ -832,7 +832,7 @@
             "id": 1278120338,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T13:42:09Z",
+            "last_commit": "2026-10-12T09:48:28Z",
             "open_issues": 3,
             "owner": "roydon-luo",
             "repo": "GenPolar",
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:49:08.303Z",
+    "last_updated": "2026-10-13T01:17:10.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
