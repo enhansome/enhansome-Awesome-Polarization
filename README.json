@@ -329,7 +329,7 @@
             "open_issues": 1,
             "owner": "DaoyiG",
             "repo": "polarimetric-pose-prediction",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
@@ -668,7 +668,7 @@
             "open_issues": 1,
             "owner": "mdyao",
             "repo": "PolarFree",
-            "stars": 70,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
@@ -836,7 +836,7 @@
             "open_issues": 3,
             "owner": "roydon-luo",
             "repo": "GenPolar",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-10-10T22:26:33.483Z"
@@ -975,7 +975,7 @@
             "open_issues": 0,
             "owner": "ymingsu",
             "repo": "UNRI",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-10-10T22:26:33.483Z"
@@ -1086,7 +1086,7 @@
             "open_issues": 0,
             "owner": "yangzhenshuo",
             "repo": "ZeroPIE",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-10-10T22:26:33.483Z"
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:15:18.604Z",
+    "last_updated": "2026-10-15T22:11:04.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
