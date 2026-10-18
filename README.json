@@ -827,12 +827,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Source code of \"Stokes-Informed Diffusion for Robust Linear Polarization Estimation, ECCV 2026 Spotlight\"",
+            "description": "Source code of \"Stokes-Informed Diffusion for Robust Linear Polarization Estimation, ECCV 2026 Oral-Spotlight\"",
             "homepage": null,
             "id": 1278120338,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T09:48:28Z",
+            "last_commit": "2026-10-18T03:29:10Z",
             "open_issues": 3,
             "owner": "roydon-luo",
             "repo": "GenPolar",
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:24:11.879Z",
+    "last_updated": "2026-10-18T21:26:38.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
