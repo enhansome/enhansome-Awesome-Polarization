@@ -347,7 +347,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-03-24T05:28:42Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "sony",
             "repo": "polar-densification",
             "stars": 34,
@@ -707,7 +707,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-07-25T02:17:27Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sony",
             "repo": "NeISFpp",
             "stars": 5,
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:16:59.429Z",
+    "last_updated": "2026-10-22T22:15:28.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
