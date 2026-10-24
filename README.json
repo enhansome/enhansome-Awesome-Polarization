@@ -237,7 +237,7 @@
             "open_issues": 1,
             "owner": "ChenyangLEI",
             "repo": "polarization-reflection-removal",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:33.690Z"
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:02:43.629Z",
+    "last_updated": "2026-10-24T21:33:17.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
