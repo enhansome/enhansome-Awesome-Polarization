@@ -710,7 +710,7 @@
             "open_issues": 2,
             "owner": "sony",
             "repo": "NeISFpp",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-10-10T22:26:33.483Z"
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:13:57.587Z",
+    "last_updated": "2026-10-30T22:55:55.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
