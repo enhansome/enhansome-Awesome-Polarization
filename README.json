@@ -912,7 +912,7 @@
             "open_issues": 0,
             "owner": "ymonno",
             "repo": "EARI-Polarization-Demosaicking",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-10-10T22:26:33.483Z"
@@ -933,7 +933,7 @@
             "open_issues": 0,
             "owner": "ymonno",
             "repo": "EARI-Polarization-Demosaicking",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-10-10T22:26:33.483Z"
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:44:24.940Z",
+    "last_updated": "2026-11-03T01:31:33.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
