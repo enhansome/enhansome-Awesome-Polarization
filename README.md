@@ -232,4 +232,4 @@ Bibliography last checked: **2026-10-10**. See the [historical coverage audit](d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
