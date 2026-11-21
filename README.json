@@ -455,7 +455,7 @@
             "open_issues": 0,
             "owner": "fourson",
             "repo": "Polarization-Aware-Low-Light-Image-Enhancement",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "deep-learning",
               "low-light-image-enhancement",
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:45:24.933Z",
+    "last_updated": "2026-11-21T23:45:41.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
