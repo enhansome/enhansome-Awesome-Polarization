@@ -576,7 +576,7 @@
             "open_issues": 1,
             "owner": "jqtangust",
             "repo": "FilmRemoval",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "computational-photography",
               "film-removal",
@@ -1096,7 +1096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:00:04.965Z",
+    "last_updated": "2026-11-26T02:08:09.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome papers on Polarization Imaging",
